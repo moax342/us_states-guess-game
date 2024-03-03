@@ -7,16 +7,16 @@ This project is a simple guessing game developed as part of the 100 Days of Code
 1. Clone or download the repository to your local machine.
 2. Make sure you have Python installed on your system.
 3. Navigate to the project directory in your terminal.
-4. Run the `us_states_guess_game.py` file using Python:
+4. Run the `main.py` file using Python:
 
     ```
-    python us_states_guess_game.py
+    python main.py
     ```
 
 5. The game will start, and you will be prompted to guess the names of the states.
 6. Type in the name of the state you think is the correct answer.
 7. If your guess is correct, the state will be marked as guessed.
-8. The game will continue until you have correctly guessed all 50 states or until you choose to exit.
+8. The game will continue until you have correctly guessed all 50 states or until you enter an empty guess "" .
 
 ## Features
 
@@ -35,7 +35,7 @@ Contributions are welcome! If you have any suggestions, bug fixes, or improvemen
 
 ## Credits
 
-This project was developed as part of the 100 Days of Code challenge, inspired by the idea of learning while coding and building practical projects.
+This project was developed as part of the 100 Days of Code challenge, inspired by Agela Yu Course the idea of learning while coding and building practical projects.
 
 ## License
 
